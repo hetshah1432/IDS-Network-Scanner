@@ -1,0 +1,5 @@
+ip,port,state,service
+192.168.0.103,135,open,msrpc
+192.168.0.103,139,open,netbios-ssn
+192.168.0.103,445,open,microsoft-ds
+192.168.0.103,7070,open,realserver
